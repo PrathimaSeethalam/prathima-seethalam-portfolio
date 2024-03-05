@@ -33,7 +33,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: '../public/comfy-sloth-project.png',
+    img: 'https://ibb.co/6XrVGPw',
     url: 'https://prathimas-store-comfy-sloth.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/comfy-sloth',
     title: 'E-Commerce Store',
@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/my-birthday-buddy.png',
+    img: 'https://ibb.co/nwPXBRh',
     url: 'https://mybirthdaybuddy.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/Birthday-Buddy',
     title: 'Birthday Buddy Reminder',
@@ -49,34 +49,34 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/my-color-generator.png',
+    img: 'https://ibb.co/VqNWnHp',
     url: 'https://mycolorgeneratorapp.netlify.app',
     github: 'https://github.com/PrathimaSeethalam/myColorGenerator',
     title: 'Color Generator',
     text: 'The color generator application simplifies the process of exploring various shades of a chosen color. With a user-friendly interface, users input their desired color through a form and submit their selection. Upon submission, the application generates a table displaying different shades and tones of the chosen color, providing users with a comprehensive palette to explore. This tool is valuable for designers, artists, and anyone seeking inspiration for color schemes, allowing for effortless experimentation and customization.',
-  },
-  {
-    id: nanoid(),
-    img: '../public/comfy-sloth-project.png',
-    url: 'https://prathima-seethalam.netlify.app/',
-    github: 'https://github.com/PrathimaSeethalam',
-    title: 'Fourth project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
-  },
-  {
-    id: nanoid(),
-    img: 'https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://prathima-seethalam.netlify.app/',
-    github: 'https://github.com/PrathimaSeethalam',
-    title: 'Fifth project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
-  },
-  {
-    id: nanoid(),
-    img: 'https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://prathima-seethalam.netlify.app/',
-    github: 'https://github.com/PrathimaSeethalam',
-    title: 'Sixth project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
-  },
+  }
+  // {
+  //   id: nanoid(),
+  //   img: '../public/comfy-sloth-project.png',
+  //   url: 'https://prathima-seethalam.netlify.app/',
+  //   github: 'https://github.com/PrathimaSeethalam',
+  //   title: 'Fourth project',
+  //   text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+  // },
+  // {
+  //   id: nanoid(),
+  //   img: 'https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800',
+  //   url: 'https://prathima-seethalam.netlify.app/',
+  //   github: 'https://github.com/PrathimaSeethalam',
+  //   title: 'Fifth project',
+  //   text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+  // },
+  // {
+  //   id: nanoid(),
+  //   img: 'https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800',
+  //   url: 'https://prathima-seethalam.netlify.app/',
+  //   github: 'https://github.com/PrathimaSeethalam',
+  //   title: 'Sixth project',
+  //   text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+  // },
 ];
