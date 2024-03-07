@@ -33,7 +33,7 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: 'https://www.pexels.com/photo/comfy-sloth-project-20538506/',
+    img: '/comfy-sloth-project.png',
     url: 'https://prathimas-store-comfy-sloth.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/comfy-sloth',
     title: 'E-Commerce Store',
@@ -41,7 +41,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '/comfy-sloth-project.png',
+    img: '/my-birthday-buddy.png',
     url: 'https://mybirthdaybuddy.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/Birthday-Buddy',
     title: 'Birthday Buddy Reminder',
@@ -49,7 +49,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '/comfy-sloth-project.png',
+    img: '/my-color-generator.png',
     url: 'https://mycolorgeneratorapp.netlify.app',
     github: 'https://github.com/PrathimaSeethalam/myColorGenerator',
     title: 'Color Generator',
