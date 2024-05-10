@@ -57,7 +57,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/books-app.png',
+    img: '/books-app.png',
     url: 'https://book-favs-app.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/book-favs-prathima',
     title: 'My Favorite Books App',
@@ -65,7 +65,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/backroads.png',
+    img: '/backroads.png',
     url: 'https://backroads-product-design.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/backroads-ad',
     title: 'Explore Backroad Tours',
@@ -73,7 +73,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/grocery-bud.png',
+    img: '/grocery-bud.png',
     url: 'https://grocery-bud-prathima.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/my-grocery-bud',
     title: 'My Grocery Buddy',
@@ -81,7 +81,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/diet.png',
+    img: '/diet.png',
     url: 'https://restaurant-app-ff54a.web.app/tab1',
     github: 'https://github.com/PrathimaSeethalam/restaurant-finder',
     title: 'Restaurant Finder',
@@ -89,7 +89,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/chatbot.png',
+    img: '/chatbot.png',
     url: 'https://aisummit-hack.netlify.app/',
     github: 'https://github.com/PrathimaSeethalam/AI-SUMMIT-HACKATHON-NYC',
     title: 'De-stress Chatbot',
@@ -97,7 +97,7 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: '../public/posts.png',
+    img: '/posts.png',
     title: 'Posts MicroService',
     text: 'Making a posts service to post comments and trying to make it effecient..',
   }
