@@ -112,7 +112,7 @@ export const projects = [
   {
     id: nanoid(),
     img: '/diet.png',
-    url: 'https://restaurant-app-ff54a.web.app/tab1',
+    url: 'https://restaurant-app-ff54a.web.app',
     github: 'https://github.com/PrathimaSeethalam/restaurant-finder',
     title: 'Restaurant Finder',
     text: ' Find restaurants and dishes based on your calories and diet supplmenent requirements. Find a list of restaurants with enumerated dishes by uploading a pic of your favorite food',
